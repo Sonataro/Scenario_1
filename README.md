@@ -2,3 +2,4 @@
 
 <div><a href="https://app.glabix.dev/recorder/shared/85e88dce-18d8-41c2-af1d-b1415178ccaa"><p>Экран — 4 июня 2025, 10:24</p></a><a href="https://app.glabix.dev/recorder/shared/85e88dce-18d8-41c2-af1d-b1415178ccaa"><img style="max-width:300px;" src="https://glabix-review.storage.yandexcloud.net/organizations/6/screen_recorder_uploads/85e88dce-18d8-41c2-af1d-b1415178ccaa/previews/22504ad7-017f-40a9-a304-9e736a67c25d/big/preview.jpg"></a></div>
 <div><a href="https://app.glabix.dev/share/380dde54-ff74-47dd-9e29-0b64e41cef6a"><p>Проблемы с управлением скоростью и отключением телесуфлера</p></a><a href="https://app.glabix.dev/share/380dde54-ff74-47dd-9e29-0b64e41cef6a"><img style="max-width:300px;" src="https://glabix-review.storage.yandexcloud.net/organizations/6/screen_recorder_uploads/380dde54-ff74-47dd-9e29-0b64e41cef6a/previews/c6fadcb1-b741-4fb5-8020-6a9c89224e84/big/preview.jpg"></a></div>
+https://app.glabix.dev/share/embed/380dde54-ff74-47dd-9e29-0b64e41cef6a
